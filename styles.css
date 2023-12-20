@@ -3,8 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    height: 100vh;
-    margin: 0;
+    margin: 20px;
 }
 
 .container {
@@ -17,4 +16,5 @@ body {
     border: 1px solid #000;
     width: 16px;
     height: 16px;
+    box-sizing: border-box;
   }
